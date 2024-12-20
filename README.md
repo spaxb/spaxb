@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development and modding!
 - 🌱 I’m currently learning Unreal Engine 5
 - 💞️ I’m looking to collaborate on opengl/vulkan and game modding stuff!
-- 📫 How to reach me? Discord
+- 📫 How to reach me? Discord @spaxb
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
