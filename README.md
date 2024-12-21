@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @spaxb
-- 👀 I’m interested in game development and modding!
-- 🌱 I’m currently learning Unreal Engine 5
-- 💞️ I’m looking to collaborate on opengl/vulkan and game modding stuff!
-- 📫 How to reach me? Discord @spaxb
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![4543534trf](https://github.com/user-attachments/assets/723fd939-b9f4-4c2f-a3fe-52e74b0b843c)
 
-<!---
-spaxb/spaxb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, I am spaxb!
+
+You can also call me vibin or vibi if you'd like to.
+
+I am interested in game development and modding games!
+
+I also like to do stuff relating graphics, such as OpenGL and Vulkan.
+
+You can reach out to me to the following sites if needed down here!
+
+Discord (@spaxb) 
