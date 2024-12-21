@@ -6,7 +6,7 @@ You can also call me vibin or vibi if you'd like to.
 
 I am interested in game development and modding games!
 
-I also like to do stuff relating graphics, such as OpenGL and Vulkan.
+I also like to do stuff relating to graphics, such as OpenGL and Vulkan.
 
 You can reach out to me to the following sites if needed down here!
 
